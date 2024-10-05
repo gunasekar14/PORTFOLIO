@@ -12,7 +12,7 @@ function About() {
                     <p className='text-lg mb-8'>
                     I am passionate Full Stack developer with a focus on building
                     modern and responsive web applications. with a strong foundation
-                    in both "Frentend" and "Backend" web technologies,I strive to
+                    in both "Frontend" and "Backend" web technologies,I strive to
                     create seamless and efficient user experiences.
                 </p>
                 <div className='space-y-4'>
